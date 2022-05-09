@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Black Single T",
+        "description": "Your order will be elegantly presented in our signature packaging with the iconic Tod's Logo design and a named sticker.",
+        "price": 200,
+        "count": 1,
+        "stock": 3,
+        "image": "images/Black single T.webp"
+    },
+    {
+        "id": 2,
+        "name": "Driving mocassino",
+        "description": "Your order will be elegantly presented in our signature packaging with the iconic Tod's Logo design and a named sticker.",
+        "price": 80,
+        "count": 1,
+        "stock": 10,
+        "image": "images/driving mocasino.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Grey gommino",
+        "description": "Your order will be elegantly presented in our signature packaging with the iconic Tod's Logo design and a named sticker.",
+        "price": 145,
+        "count": 1,
+        "stock": 8,
+        "image": "images/Grey Gommino.webp"
+    },
+    {
+        "id": 4,
+        "name": "Loafer mocassino",
+        "description": "Your order will be elegantly presented in our signature packaging with the iconic Tod's Logo design and a named sticker.",
+        "price": 99,
+        "count": 1,
+        "stock": 6,
+        "image": "images/Loafer mocasino.jpg"
+    },
+    {
+        "id": 5,
+        "name": "White gommino",
+        "description": "Your order will be elegantly presented in our signature packaging with the iconic Tod's Logo design and a named sticker.",
+        "price": 145,
+        "count": 1,
+        "stock": 5,
+        "image": "images/White gommino.webp"
+    },
+    {
+        "id": 6,
+        "name": "Winter mocassino",
+        "description": "Your order will be elegantly presented in our signature packaging with the iconic Tod's Logo design and a named sticker.",
+        "price": 240,
+        "count": 1,
+        "stock": 3,
+        "image": "images/Winter mocasino.jpg"
+    }
+]
